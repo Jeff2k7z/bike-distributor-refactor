@@ -1,0 +1,7 @@
+﻿{{body}}Order Receipt for {{companyname}}
+{{lines}}
+Sub-Total: {{subtotal}}
+Tax: {{taxtotal}}
+Total: {{ordertotal}}{{body}}
+{{line}}	{{quantity}} x {{title}} = {{extendedprice}}
+{{line}}
