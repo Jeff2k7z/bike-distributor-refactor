@@ -1,5 +1,0 @@
-Z:\Downloads\bike-distributor-refactor\BikeDistributor\bin\Debug\BikeDistributor.dll
-Z:\Downloads\bike-distributor-refactor\BikeDistributor\bin\Debug\BikeDistributor.pdb
-Z:\Downloads\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.dll
-Z:\Downloads\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.pdb
-Z:\Downloads\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.csprojResolveAssemblyReference.cache
